@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/json-schema": "^7.0.15"
+  },
+  "devDependencies": {
+    "@eggjs/tsconfig": "^2.0.0"
+  }
+}
