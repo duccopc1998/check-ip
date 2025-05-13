@@ -1,7 +1,0 @@
-{
-  "connectionString": "mongodb+srv://ducco1998x:Ckyeuvk98@checkip.imxeqij.mongodb.net/",
-  "options": {
-    "useNewUrlParser": true,
-    "useUnifiedTopology": true
-  }
-}
